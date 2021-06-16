@@ -21,6 +21,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>  
-  
+
+![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishchay17&layout=compact&langs_count=8&hide_border=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishchay17&" alt="nishchay17" /></p>
 
