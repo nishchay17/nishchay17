@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishchay</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
   
-- 👨‍💻 All of my projects are available at [https://nishchay17.netlify.com/](https://nishchay17.vercel.app/)  
+- 👨‍💻 All of my projects are available at [https://nishchay17.vercel.app/](https://nishchay17.vercel.app/)  
   
 - 💬 Ask me about **react, node or javascript**  
   
