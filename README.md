@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishchay</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
   
-- 👨‍💻 All of my projects are available at [https://nishchay17.netlify.com/](https://nishchay17.netlify.com/)  
+- 👨‍💻 All of my projects are available at [https://nishchay17.netlify.com/](https://nishchay17.vercel.app/)  
   
 - 💬 Ask me about **react, node or javascript**  
   
-- 📫 How to reach me **nishchayt17@gmail.com**  
+- 📫 How to reach me **nishchay13971@gmail.com**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
