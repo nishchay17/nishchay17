@@ -3,7 +3,7 @@
   
 - 👨‍💻 All of my projects are available at [https://nishchay17.vercel.app/](https://nishchay17.vercel.app/)  
   
-- 💬 Ask me about **react, node or javascript**  
+- 💬 Ask me about **Javascript, Next js, React, or node**  
   
 - 📫 How to reach me **nishchay13971@gmail.com**  
   
