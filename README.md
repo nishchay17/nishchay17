@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nishchay</h1>  
-<h3 align="center">A passionate full stack developer from India</h3>  
+# Hi 👋, I'm Nishchay
+### A detail oriented full stack developer from India
   
 - 👨‍💻 All of my projects are available at [nishchay17.com](https://www.nishchay17.com)
   
